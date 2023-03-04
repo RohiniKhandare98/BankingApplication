@@ -53,6 +53,8 @@ public class BankingApplication {
             }
         }
 
+        System.out.println("THANK YOU");
+
     }
 }
 
